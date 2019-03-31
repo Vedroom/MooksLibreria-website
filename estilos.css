@@ -1,0 +1,22 @@
+* {
+   padding:0;
+   margin:0;
+   
+  -webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  box-sizing:border-box;
+}
+
+body{
+background:imagenes/fondoop.jpg;
+}
+
+header nav {
+ background:#000000;
+ margin-bottom:10px;
+}
+
+   header nav ul {
+     list-style:none;
+     overflow: hidden;
+   }
